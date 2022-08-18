@@ -182,7 +182,7 @@
 
     .left-hero p {
         text-align: center;
-
+        width: 24rem;
     }
 
     .mid-section {
@@ -192,11 +192,11 @@
     }
 
     .left-side img {
-        width: 511px;
+        width: 391px;
     }
 
     .right-hero img {
-        width: 400px;
+        width: 350px;
     }
 
     .right-side {
