@@ -180,6 +180,11 @@
         margin-left: 3rem;
     }
 
+    .left-hero p {
+        text-align: center;
+
+    }
+
     .mid-section {
         flex-direction: column;
         align-items: center;
